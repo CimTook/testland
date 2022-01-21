@@ -7,7 +7,7 @@
  * @website https://plusinsta.xyz/discord-plus
  * @source https://raw.githubusercontent.com/PlusInsta/discord-plus/master/DiscordPlus-source.theme.css
  * @invite 2Jwh2nS
- * @TTS NOTE: I edited lines 1199 and 1201 to use the same color code as the line 1404 because it was too bright.
+ * @TTS NOTE: I edited lines 1200 and 1202 to use the same color code as the line 1404 because it was too bright.
 */
 @import url(https://plusinsta.xyz/discord-plus/assets/plugins.css);
 @import url(https://plusinsta.xyz/discord-plus/assets/extras.css);
@@ -1195,11 +1195,11 @@ margin-right: 0;
 	margin: var(--dplus-spacing-ui);
 }
 .reaction-1hd86g.reactionMe-wv5HKu {border-color: var(--dplus-accent-ui);}
-#app-mount .backgroundFlash-24qWLN {background: transparent!important;}
+#app-mount .backgroundFlash-24qWLN {background: transparent !important;}
 .theme-dark .backgroundFlash-24qWLN .message-2qnXI6
-	{ background-color: rgba(250, 166, 26, 0.18) !important; }
+	{ background-color: rgba(250, 166, 26, 0.02) !important; }
 .theme-light .backgroundFlash-24qWLN .message-2qnXI6
-	{ background-color: rgba(250, 166, 26, 0.18) !important; }
+	{ background-color: rgba(250, 166, 26, 0.02) !important; }
 
 .cozyMessage-3V1Y8y.groupStart-23k01U + .backgroundFlash-24qWLN.groupStart-23k01U {
 	margin-top: 48px !important;
