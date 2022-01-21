@@ -1197,9 +1197,9 @@ margin-right: 0;
 .reaction-1hd86g.reactionMe-wv5HKu {border-color: var(--dplus-accent-ui);}
 #app-mount .backgroundFlash-24qWLN {background: transparent!important;}
 .theme-dark .backgroundFlash-24qWLN .message-2qnXI6
-	{ background-color: #faa61a2e !important; }
+	{ background-color: rgba(250, 166, 26, 0.18); !important; }
 .theme-light .backgroundFlash-24qWLN .message-2qnXI6
-	{ background-color: #faa61a2e !important; }
+	{ background-color: rgba(250, 166, 26, 0.18); !important; }
 
 .cozyMessage-3V1Y8y.groupStart-23k01U + .backgroundFlash-24qWLN.groupStart-23k01U {
 	margin-top: 48px !important;
